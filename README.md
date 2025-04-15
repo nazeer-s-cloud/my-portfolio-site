@@ -1,2 +1,3 @@
 # my-portfolio-site
-basic static website with s3
+basic static website with AWS S3
+
